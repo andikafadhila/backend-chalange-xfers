@@ -1,0 +1,21 @@
+{
+  "name": "backend-chalange",
+  "version": "1.0.0",
+  "description": "this is backend chalange from xfers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andika Rizki Fadhila",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dayjs": "^1.11.4",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.3.3",
+    "node-schedule": "^2.1.0",
+    "puppeteer": "^16.0.0"
+  }
+}
